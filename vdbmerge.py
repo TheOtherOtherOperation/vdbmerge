@@ -12,7 +12,6 @@ import re
 import os
 import csv
 import os.path
-from vdbconvert import vdbconvert
 
 def getArgs():
     parser = argparse.ArgumentParser(
